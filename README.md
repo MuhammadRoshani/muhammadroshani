@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Muhammad Roshani
+# 👋 Hi I'm Muhammad Roshani
 
 💻 I'm a Front-End Developer passionate about creating clean designs , smooth user experiences and responsive design.
 
