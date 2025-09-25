@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Muhammad roshani
+# 👋 Hi! I'm Muhammad Roshani
 
 💻 I'm a Front-End Developer passionate about creating clean designs , smooth user experiences and responsive design.
 
@@ -27,7 +27,7 @@
 
 ## 🌐 Connect with Me
 - [Email](muhammadroshani79@gmail.com)
-- [Call me](tel:+989101996142)
+- [Chat on Telegram](https://t.me/989101996142)
 
 ---
 
