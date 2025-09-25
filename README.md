@@ -17,6 +17,7 @@
 - [API-project](https://muhammadroshani.github.io/API-project) — make api project with react and json-server
 - [Spa-project-with-React](https://muhammadroshani.github.io/Spa-project-with-React) — make single page application with react
 - [Portfolio-project-with-React](https://muhammadroshani.github.io/Portfolio-project-with-React) — make portfolio wth react
+- [Calculator-app-with-React](https://muhammadroshani.github.io/Calculator-app-with-React) — make calculator web application with react
 
 ---
 
