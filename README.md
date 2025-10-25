@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Skills
-- HTML | CSS | JavaScript (ES6+) | TypeScript
+- HTML | CSS | JavaScript | TypeScript
 - React.js
 - Bootstrap | SASS | Tailwind
 - Git | GitHub
