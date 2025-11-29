@@ -7,15 +7,15 @@
 ## 🚀 Skills
 - HTML | CSS | JavaScript | TypeScript
 - React.js | Redux
-- Bootstrap | SASS | Tailwind
+- Bootstrap | Sass | Tailwind
 - Git | GitHub
-- NPM | RegEX
+- NPM | RegEx
 
 ---
 
 ## 📂 Featured Projects
 - [API-project-with-real-Back-End](https://muhammadroshani.github.io/API-project-with-real-Back-End) — make api project with react and XAMPP & MySQL database
-- [Store-project-with-Redux](https://muhammadroshani.github.io/Refactor-store-project-with-Redux) — make store project with react-Redux in react
+- [Store-project-with-Redux](https://muhammadroshani.github.io/Refactor-store-project-with-Redux) — make store project with Redux in react
 - [API-project](https://muhammadroshani.github.io/API-project) — make api project with react and json-server
 - [Spa-project-with-React](https://muhammadroshani.github.io/Spa-project-with-React) — make single page application with react
 - [Portfolio-project-with-React](https://muhammadroshani.github.io/Portfolio-project-with-React) — make portfolio wth react
