@@ -30,7 +30,7 @@
 
 ## 🌐 Connect with Me
 - [Email](muhammadroshani79@gmail.com)
-- [Chat on Telegram](https://t.me/989101996142)
+- [Chat on Telegram](https://t.me/mhmd_roshni79)
 - [Chat on Instagram](https://www.instagram.com/muhammadroshani799)
 
 ---
