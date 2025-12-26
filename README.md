@@ -7,6 +7,7 @@
 ## 🚀 Skills
 - HTML | CSS | JavaScript | TypeScript
 - React.js | Redux
+- Next.js | MongoDB
 - Bootstrap | Sass | Tailwind
 - Git | GitHub
 - NPM | RegEx
