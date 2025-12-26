@@ -24,7 +24,9 @@
 ---
 
 ## 📊 My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadRoshani&show_icons=true&theme=radical)
+## 📊 My GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadRoshani&show_icons=true&theme=radical&cache_seconds=21600)
+
 
 ---
 
