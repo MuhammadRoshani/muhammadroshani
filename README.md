@@ -15,10 +15,10 @@
 ---
 
 ## 📂 Featured Projects
-- [Store-project-with-Next](https://store-project-with-next.vercel.app/) — make store project with Next.js by nested routing
+- [Store-project-with-Next](https://store-project-with-next.vercel.app/) — make store project with Next.js by dynamic nested routing
 - [API-project-with-real-Back-End](https://muhammadroshani.github.io/API-project-with-real-Back-End) — make api project with react and XAMPP & MySQL database
 - [Store-project-with-Redux](https://muhammadroshani.github.io/Refactor-store-project-with-Redux) — make store project with Redux in react
-- [API-project-with-Redux-toolkit](https://api-project-with-redux-toolkit-cpx5dmz2h.vercel.app/) — make َ\] project with Redux toolkit in react
+- [API-project-with-Redux-toolkit](https://api-project-with-redux-toolkit-cpx5dmz2h.vercel.app/)  — make project with Redux toolkit in react
 - [API-project](https://muhammadroshani.github.io/API-project) — make api project with react and json-server
 - [Spa-project-with-React](https://muhammadroshani.github.io/Spa-project-with-React) — make single page application with react
 - [Calculator-app-with-React](https://muhammadroshani.github.io/Calculator-app-with-React) — make calculator web application with react
