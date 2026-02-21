@@ -8,6 +8,7 @@
 - HTML | CSS | JavaScript | TypeScript
 - React.js | Redux
 - Next.js | MongoDB
+- Node.js | REST API
 - Bootstrap | Sass | Tailwind
 - Git | GitHub
 - NPM | RegEx | Postman
