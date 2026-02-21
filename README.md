@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Featured Projects
-- [Full-Stack Contact Manager](https://nextjs-full-stack-contact-manager.vercel.app) — Full-stack Contact Manager with Next.js, MongoDB Atlas, JWT authentication, and real-time CRUD features.
+- [Full-Stack-Contact-Manager](https://nextjs-full-stack-contact-manager.vercel.app) — Full-stack Contact Manager with Next.js, MongoDB Atlas, JWT authentication, and real-time CRUD features
 - [Store-project-with-Next](https://store-project-with-next.vercel.app) — make store project with Next.js by dynamic nested routing
 - [API-project-with-real-Back-End](https://muhammadroshani.github.io/API-project-with-real-Back-End) — make api project with react and XAMPP & MySQL database
 - [Store-project-with-Redux](https://muhammadroshani.github.io/Refactor-store-project-with-Redux) — make store project with Redux in react
