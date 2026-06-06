@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Skills
-- HTML | CSS | JavaScript(ES6+) | TypeScript
+- HTML | CSS | JavaScript (ES6+) | TypeScript
 - React.js | Redux(RTK)
 - Next.js | MongoDB
 - Node.js | REST API
